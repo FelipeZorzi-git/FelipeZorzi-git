@@ -24,7 +24,7 @@
 ## 🌐 Find Me Online
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arthur-saraiva-ti/">
+  <a href="https://www.linkedin.com/in/felipe-zorzi-31647a281/">
     <img
         title="Linkedin - Felipe Zorzi"
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
