@@ -10,7 +10,7 @@
 <div style="width: 100%;">
   <div style="display: flex; justify-content: space-between; align-items: center;">
     <h1>Felipe Zorzi 👽</h1>
-    <img src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="GIF" width="255" align="right">
+    <img src="https://github.com/FelipeZorzi-git/FelipeZorzi-git/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="GIF" width="255" align="right">
   </div>
   
   **`💻 IT Intern | Computer Science`**
@@ -68,7 +68,6 @@
   <img alt="Python" title="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img alt="C#" title="C#" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
   <img alt="Java" title="Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img alt="SQL Server" title="SQL Server" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
 </div>
 
 ---
@@ -78,8 +77,8 @@
 <div align="center">
   <div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 20px;">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeZorzi-git&show_icons=true&theme=midnight-purple&include_all_commits=true&locale=pt-br&border_radius=10&border_color=30363D"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeZorzi-git&theme=midnight-purple&layout=compact&custom_title=Most%20Used%20Technologies&langs_count=6&hide=php,jupyter%20notebook&locale=en&border_radius=10&border_color=30363D"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeZorzi-git&show_icons=true&theme=github_dark &include_all_commits=true&locale=pt-br&border_radius=10&border_color=30363D"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeZorzi-git&theme=github_dark &layout=compact&custom_title=Most%20Used%20Technologies&langs_count=6&hide=php,jupyter%20notebook&locale=en&border_radius=10&border_color=30363D"/>
   </div>
   
 
