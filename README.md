@@ -9,7 +9,7 @@
 <div style="width: 100%;">
   <div style="display: flex; justify-content: space-between; align-items: center;">
     <h1>Felipe Zorzi 👾</h1>
-    <img src="https://github.com/FelipeZorzi-git/FelipeZorzi-git/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="GIF" width="255" align="right">
+    <img src="https://github.com/arthsz-ti/arthsz-ti/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="GIF" width="255" align="right">
   </div>
   
   **`💻 IT Intern | Computer Science`**
