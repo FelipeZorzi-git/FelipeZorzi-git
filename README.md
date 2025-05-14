@@ -77,8 +77,8 @@
 <div align="center">
   <div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 20px;">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeZorzi-git&show_icons=true&theme=github_dark &include_all_commits=true&locale=pt-br&border_radius=10&border_color=30363D"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeZorzi-git&theme=github_dark &layout=compact&custom_title=Most%20Used%20Technologies&langs_count=6&hide=php,jupyter%20notebook&locale=en&border_radius=10&border_color=30363D"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeZorzi-git&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br&border_radius=10&border_color=30363D"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeZorzi-git&theme=github_dark&layout=compact&custom_title=Most%20Used%20Technologies&langs_count=6&hide=php,jupyter%20notebook&locale=en&border_radius=10&border_color=30363D"/>
   </div>
   
 
