@@ -16,7 +16,7 @@
   
   **`💻 IT Intern | Computer Science`**
   
-  <p>Hello! I'm <strong>Felipe Zorzi</strong>, 17 years old.<br>
+  <p>Hello! I'm <strong>Felipe Zorzi</strong>, 18 years old.<br>
   🎓 Technical degree in System Developer from ETEC Vasco Antônio Venchiarutti<br>
   📚 Currently studying Computer Science at UniAnchieta</p>
 </div>
